@@ -1,7 +1,7 @@
 IntelliJ IDEA Swing Creator
 ---------------------------------------------
 
-This project is an example showing how to use IntelliJ IDEA Swing creator
+This project is a short example how to use IntelliJ IDEA Swing creator
 
 
 Video
