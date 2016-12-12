@@ -12,8 +12,8 @@ Video
 Screens
 ---------------------------------------------
 
-![Screen 1](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/iamges/screen1.png "Screen 1")
+![Screen 1](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/images/screen1.png "Screen 1")
 
-![Screen 2](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/iamges/screen2.png "Screen 2")
+![Screen 2](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/images/screen2.png "Screen 2")
 
-![Screen 3](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/iamges/screen3.png "Screen 3")
+![Screen 3](https://github.com/DanielMichalski/intellij-idea-swing-creator/blob/master/src/main/resources/images/screen3.png "Screen 3")
